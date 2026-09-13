@@ -1,0 +1,21 @@
+{
+  "AssetsDirectory": "Assets",
+  "CompanyName": "",
+  "EnabledPackages": [
+    "com.thanhhoang.dutween"
+  ],
+  "Gravity": 9.8100004196167,
+  "IconPath": "D:\\image (1).png",
+  "N3DSAntiAliasing": 2,
+  "Name": "TrippleFruit",
+  "PPU": 100.0,
+  "PackagesDirectory": "Packages",
+  "ProductName": "",
+  "ScenesInBuild": [
+    "Scenes/Game.scene"
+  ],
+  "ScriptsDirectory": "Scripts",
+  "StartScene": "",
+  "Version": "0.1.0",
+  "WorldUnitsVersion": 2
+}

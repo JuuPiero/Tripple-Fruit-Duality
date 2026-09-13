@@ -1,0 +1,7 @@
+{
+  "name": "com.thanhhoang.dutween",
+  "displayName": "DuTween",
+  "version": "0.1.0",
+  "description": "Basic transform and value tween utilities for Duality.",
+  "supportedPlatforms": ["Desktop", "Nintendo3DS"]
+}
