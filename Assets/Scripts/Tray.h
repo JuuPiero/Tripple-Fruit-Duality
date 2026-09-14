@@ -7,6 +7,4 @@ public:
     void OnCreate() override;
     void OnUpdate(float deltaTime) override;
 
-public:
-
 };

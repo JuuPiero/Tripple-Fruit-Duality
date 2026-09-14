@@ -1,0 +1,86 @@
+{
+  "CanvasUIVersion": 1,
+  "Entities": [
+    {
+      "Active": {
+        "Active": true
+      },
+      "Box Collider 2D": {
+        "Density": 1.0,
+        "Edit": false,
+        "Enabled": true,
+        "Friction": 0.5,
+        "Is Trigger": false,
+        "Offset": [
+          0.0,
+          0.0
+        ],
+        "Physics Material": "",
+        "Restitution": 0.0,
+        "Size": [
+          0.10320983827114105,
+          0.1106172502040863
+        ]
+      },
+      "Name": {
+        "Name": "Fruit (7)"
+      },
+      "Parent": -1,
+      "Scripts": [
+        {
+          "ClassName": "Fruit",
+          "Enabled": true,
+          "PropertyOverrides": null
+        }
+      ],
+      "Sprite Renderer": {
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Enabled": true,
+        "Flip X": false,
+        "Flip Y": false,
+        "Pivot": [
+          0.5,
+          0.5
+        ],
+        "Size": [
+          0.20000000298023224,
+          0.20000000298023224
+        ],
+        "Slice Border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Sort Order": 2,
+        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
+      },
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          -0.351563036441803,
+          -0.6548975706100464,
+          0.0
+        ]
+      }
+    }
+  ],
+  "WorldUnitsVersion": 2
+}

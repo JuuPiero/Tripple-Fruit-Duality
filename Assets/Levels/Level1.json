@@ -1,3 +1,14 @@
 {
-    
+    "Tree": {
+        "TreeType": 1,
+        "Width": 0,
+        "Height": 0
+    },
+    "Fruits": [
+        {
+            "FruitType": -1,
+            "PositionX": 10,
+            "PositionY": 10
+        }
+    ]
 }

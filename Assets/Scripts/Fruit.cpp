@@ -1,8 +1,11 @@
 #include "Fruit.h"
 
 #include "ScriptRegistration.h"
+#include "LevelData.h"
 #include "DualityEngine\Scripting\Debug.h"
 void Fruit::OnCreate() {
+    SpriteRenderer = GetComponent<SpriteRendererComponent>();
+    
 }
 
 void Fruit::OnUpdate(float deltaTime) {

@@ -1,14 +1,8 @@
 #pragma once
-
 #include "DualityEngine/Scene/Behaviour.h"
-#include "FruitConfigSO.h"
 using namespace Duality;
-class GameManager : public Behaviour {
+class LevelManager : public Behaviour {
 public:
     void OnCreate() override;
     void OnUpdate(float deltaTime) override;
-public:
-    DUALITY_PROPERTY() AssetRef FruitConfig;
-
-    DUALITY_PROPERTIES_AUTO()
 };

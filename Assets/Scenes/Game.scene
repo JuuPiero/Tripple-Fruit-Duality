@@ -5,10 +5,105 @@
       "Active": {
         "Active": true
       },
+      "Layer": {
+        "Layer": "BOTTOM"
+      },
+      "Name": {
+        "Name": "---Bottom"
+      },
+      "Parent": -1,
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "Active": {
+        "Active": true
+      },
+      "Name": {
+        "Name": "Tree"
+      },
+      "Parent": 0,
+      "Scripts": [
+        {
+          "ClassName": "Tree",
+          "Enabled": true,
+          "PropertyOverrides": null
+        }
+      ],
+      "Sprite Renderer": {
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Enabled": true,
+        "Flip X": false,
+        "Flip Y": false,
+        "Pivot": [
+          0.5,
+          0.5
+        ],
+        "Size": [
+          1.7999999523162842,
+          3.200000047683716
+        ],
+        "Slice Border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Sort Order": 0,
+        "Texture": "3552ff7eda609788bbc94be4bd0810e2"
+      },
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          0.0,
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "Active": {
+        "Active": true
+      },
       "Name": {
         "Name": "Fruit (8)"
       },
-      "Parent": 2,
+      "Parent": 1,
       "Sprite Renderer": {
         "Color": [
           1.0,
@@ -62,9 +157,204 @@
         "Active": true
       },
       "Name": {
+        "Name": "Fruit (2)"
+      },
+      "Parent": 1,
+      "Sprite Renderer": {
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Enabled": true,
+        "Flip X": false,
+        "Flip Y": false,
+        "Pivot": [
+          0.5,
+          0.5
+        ],
+        "Size": [
+          0.20000000298023224,
+          0.20000000298023224
+        ],
+        "Slice Border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Sort Order": 2,
+        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
+      },
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          -0.10053994506597519,
+          -0.5586186647415161,
+          0.0
+        ]
+      }
+    },
+    {
+      "Active": {
+        "Active": true
+      },
+      "Name": {
+        "Name": "Fruit"
+      },
+      "Parent": 1,
+      "Sprite Renderer": {
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Enabled": true,
+        "Flip X": false,
+        "Flip Y": false,
+        "Pivot": [
+          0.5,
+          0.5
+        ],
+        "Size": [
+          0.20000000298023224,
+          0.20000000298023224
+        ],
+        "Slice Border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Sort Order": 2,
+        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
+      },
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          -0.1320844292640686,
+          -0.8249934911727905,
+          0.0
+        ]
+      }
+    },
+    {
+      "Active": {
+        "Active": true
+      },
+      "Name": {
+        "Name": "Fruit (1)"
+      },
+      "Parent": 1,
+      "Sprite Renderer": {
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Enabled": true,
+        "Flip X": false,
+        "Flip Y": false,
+        "Pivot": [
+          0.5,
+          0.5
+        ],
+        "Size": [
+          0.20000000298023224,
+          0.20000000298023224
+        ],
+        "Slice Border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Sort Order": 2,
+        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
+      },
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          0.21490445733070374,
+          -0.7759244441986084,
+          0.0
+        ]
+      }
+    },
+    {
+      "Active": {
+        "Active": true
+      },
+      "Box Collider 2D": {
+        "Density": 1.0,
+        "Edit": false,
+        "Enabled": true,
+        "Friction": 0.5,
+        "Is Trigger": false,
+        "Offset": [
+          0.0,
+          0.0
+        ],
+        "Physics Material": "",
+        "Restitution": 0.0,
+        "Size": [
+          0.10320983827114105,
+          0.1106172502040863
+        ]
+      },
+      "Name": {
         "Name": "Fruit (7)"
       },
-      "Parent": 2,
+      "Parent": 1,
+      "Prefab Instance": {
+        "Prefab": "a35652ea659e62c1b3f90a7f514681ac"
+      },
+      "Scripts": [
+        {
+          "ClassName": "Fruit",
+          "Enabled": true,
+          "PropertyOverrides": null
+        }
+      ],
       "Sprite Renderer": {
         "Color": [
           1.0,
@@ -117,49 +407,10 @@
       "Active": {
         "Active": true
       },
-      "Layer": {
-        "Layer": "BOTTOM"
-      },
       "Name": {
-        "Name": "---Bottom"
+        "Name": "Fruit (3)"
       },
-      "Parent": -1,
-      "Tag": {
-        "Tag": "Untagged"
-      },
-      "Transform": {
-        "Rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Scale": [
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Translation": [
-          0.0,
-          0.0,
-          0.0
-        ]
-      }
-    },
-    {
-      "Active": {
-        "Active": true
-      },
-      "Name": {
-        "Name": "Tree"
-      },
-      "Parent": 2,
-      "Scripts": [
-        {
-          "ClassName": "Tree",
-          "Enabled": true,
-          "PropertyOverrides": null
-        }
-      ],
+      "Parent": 1,
       "Sprite Renderer": {
         "Color": [
           1.0,
@@ -175,8 +426,8 @@
           0.5
         ],
         "Size": [
-          1.7999999523162842,
-          3.200000047683716
+          0.20000000298023224,
+          0.20000000298023224
         ],
         "Slice Border": [
           0.0,
@@ -184,8 +435,8 @@
           0.0,
           0.0
         ],
-        "Sort Order": 1,
-        "Texture": "3552ff7eda609788bbc94be4bd0810e2"
+        "Sort Order": 2,
+        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
       },
       "Tag": {
         "Tag": "Untagged"
@@ -202,8 +453,176 @@
           1.0
         ],
         "Translation": [
+          -0.38443970680236816,
+          -0.4219263195991516,
+          0.0
+        ]
+      }
+    },
+    {
+      "Active": {
+        "Active": true
+      },
+      "Name": {
+        "Name": "Fruit (4)"
+      },
+      "Parent": 1,
+      "Sprite Renderer": {
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Enabled": true,
+        "Flip X": false,
+        "Flip Y": false,
+        "Pivot": [
+          0.5,
+          0.5
+        ],
+        "Size": [
+          0.20000000298023224,
+          0.20000000298023224
+        ],
+        "Slice Border": [
           0.0,
           0.0,
+          0.0,
+          0.0
+        ],
+        "Sort Order": 2,
+        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
+      },
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          0.27799347043037415,
+          -0.47800523042678833,
+          0.0
+        ]
+      }
+    },
+    {
+      "Active": {
+        "Active": true
+      },
+      "Name": {
+        "Name": "Fruit (5)"
+      },
+      "Parent": 1,
+      "Sprite Renderer": {
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Enabled": true,
+        "Flip X": false,
+        "Flip Y": false,
+        "Pivot": [
+          0.5,
+          0.5
+        ],
+        "Size": [
+          0.20000000298023224,
+          0.20000000298023224
+        ],
+        "Slice Border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Sort Order": 2,
+        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
+      },
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          0.4216957688331604,
+          -0.26420411467552185,
+          0.0
+        ]
+      }
+    },
+    {
+      "Active": {
+        "Active": true
+      },
+      "Name": {
+        "Name": "Fruit (6)"
+      },
+      "Parent": 1,
+      "Sprite Renderer": {
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Enabled": true,
+        "Flip X": false,
+        "Flip Y": false,
+        "Pivot": [
+          0.5,
+          0.5
+        ],
+        "Size": [
+          0.20000000298023224,
+          0.20000000298023224
+        ],
+        "Slice Border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Sort Order": 2,
+        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
+      },
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          0.13429097831249237,
+          -0.590162992477417,
           0.0
         ]
       }
@@ -232,13 +651,9 @@
       "Name": {
         "Name": "Bottom 3D Camera"
       },
-      "Parent": 2,
+      "Parent": 0,
       "Physics Raycaster 2D": {
         "Enabled": true
-      },
-      "Physics Raycaster 3D": {
-        "Enabled": true,
-        "Max Distance": 2000.0
       },
       "Tag": {
         "Tag": "Untagged"
@@ -258,6 +673,62 @@
           0.0,
           0.0,
           211.11463928222656
+        ]
+      }
+    },
+    {
+      "Active": {
+        "Active": true
+      },
+      "Name": {
+        "Name": "tray"
+      },
+      "Parent": 0,
+      "Sprite Renderer": {
+        "Color": [
+          1.0,
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Enabled": true,
+        "Flip X": false,
+        "Flip Y": false,
+        "Pivot": [
+          0.5,
+          0.5
+        ],
+        "Size": [
+          1.0,
+          0.25999999046325684
+        ],
+        "Slice Border": [
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Sort Order": 3,
+        "Texture": "5f730d1e899f4ee9618bcf8078439988"
+      },
+      "Tag": {
+        "Tag": "Untagged"
+      },
+      "Transform": {
+        "Rotation": [
+          0.0,
+          0.0,
+          0.0
+        ],
+        "Scale": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "Translation": [
+          -0.032645389437675476,
+          0.9676129817962646,
+          0.0
         ]
       }
     },
@@ -336,91 +807,40 @@
         "Active": true
       },
       "Name": {
-        "Name": "Fruit"
+        "Name": "Particle"
       },
-      "Parent": 2,
-      "Sprite Renderer": {
-        "Color": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
+      "Parent": -1,
+      "Particle System": {
+        "Emission Rate": 20.0,
         "Enabled": true,
-        "Flip X": false,
-        "Flip Y": false,
-        "Pivot": [
-          0.5,
-          0.5
-        ],
-        "Size": [
-          0.20000000298023224,
-          0.20000000298023224
-        ],
-        "Slice Border": [
-          0.0,
-          0.0,
-          0.0,
+        "End Color": [
+          1.0,
+          1.0,
+          1.0,
           0.0
         ],
-        "Sort Order": 2,
-        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
-      },
-      "Tag": {
-        "Tag": "Untagged"
-      },
-      "Transform": {
-        "Rotation": [
+        "Gravity": [
           0.0,
-          0.0,
-          0.0
+          0.6000000238418579
         ],
-        "Scale": [
+        "Lifetime": 1.5,
+        "Loop": true,
+        "Max Particles": 64,
+        "Playing": true,
+        "Sort Order": 0,
+        "Start Color": [
+          1.0,
           1.0,
           1.0,
           1.0
         ],
-        "Translation": [
-          -0.1320844292640686,
-          -0.8249934911727905,
-          0.0
+        "Start Size": 0.07999999821186066,
+        "Start Speed": 0.4000000059604645,
+        "Texture": "",
+        "Velocity Spread": [
+          0.30000001192092896,
+          0.30000001192092896
         ]
-      }
-    },
-    {
-      "Active": {
-        "Active": true
-      },
-      "Name": {
-        "Name": "Fruit (1)"
-      },
-      "Parent": 2,
-      "Sprite Renderer": {
-        "Color": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Enabled": true,
-        "Flip X": false,
-        "Flip Y": false,
-        "Pivot": [
-          0.5,
-          0.5
-        ],
-        "Size": [
-          0.20000000298023224,
-          0.20000000298023224
-        ],
-        "Slice Border": [
-          0.0,
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Sort Order": 2,
-        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
       },
       "Tag": {
         "Tag": "Untagged"
@@ -437,289 +857,9 @@
           1.0
         ],
         "Translation": [
-          0.21490445733070374,
-          -0.7759244441986084,
-          0.0
-        ]
-      }
-    },
-    {
-      "Active": {
-        "Active": true
-      },
-      "Name": {
-        "Name": "Fruit (2)"
-      },
-      "Parent": 2,
-      "Sprite Renderer": {
-        "Color": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Enabled": true,
-        "Flip X": false,
-        "Flip Y": false,
-        "Pivot": [
-          0.5,
-          0.5
-        ],
-        "Size": [
-          0.20000000298023224,
-          0.20000000298023224
-        ],
-        "Slice Border": [
+          0.082635298371315,
           0.0,
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Sort Order": 2,
-        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
-      },
-      "Tag": {
-        "Tag": "Untagged"
-      },
-      "Transform": {
-        "Rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Scale": [
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Translation": [
-          -0.10053994506597519,
-          -0.5586186647415161,
-          0.0
-        ]
-      }
-    },
-    {
-      "Active": {
-        "Active": true
-      },
-      "Name": {
-        "Name": "Fruit (3)"
-      },
-      "Parent": 2,
-      "Sprite Renderer": {
-        "Color": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Enabled": true,
-        "Flip X": false,
-        "Flip Y": false,
-        "Pivot": [
-          0.5,
-          0.5
-        ],
-        "Size": [
-          0.20000000298023224,
-          0.20000000298023224
-        ],
-        "Slice Border": [
-          0.0,
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Sort Order": 2,
-        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
-      },
-      "Tag": {
-        "Tag": "Untagged"
-      },
-      "Transform": {
-        "Rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Scale": [
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Translation": [
-          -0.38443970680236816,
-          -0.4219263195991516,
-          0.0
-        ]
-      }
-    },
-    {
-      "Active": {
-        "Active": true
-      },
-      "Name": {
-        "Name": "Fruit (4)"
-      },
-      "Parent": 2,
-      "Sprite Renderer": {
-        "Color": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Enabled": true,
-        "Flip X": false,
-        "Flip Y": false,
-        "Pivot": [
-          0.5,
-          0.5
-        ],
-        "Size": [
-          0.20000000298023224,
-          0.20000000298023224
-        ],
-        "Slice Border": [
-          0.0,
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Sort Order": 2,
-        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
-      },
-      "Tag": {
-        "Tag": "Untagged"
-      },
-      "Transform": {
-        "Rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Scale": [
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Translation": [
-          0.27799347043037415,
-          -0.47800523042678833,
-          0.0
-        ]
-      }
-    },
-    {
-      "Active": {
-        "Active": true
-      },
-      "Name": {
-        "Name": "Fruit (5)"
-      },
-      "Parent": 2,
-      "Sprite Renderer": {
-        "Color": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Enabled": true,
-        "Flip X": false,
-        "Flip Y": false,
-        "Pivot": [
-          0.5,
-          0.5
-        ],
-        "Size": [
-          0.20000000298023224,
-          0.20000000298023224
-        ],
-        "Slice Border": [
-          0.0,
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Sort Order": 2,
-        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
-      },
-      "Tag": {
-        "Tag": "Untagged"
-      },
-      "Transform": {
-        "Rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Scale": [
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Translation": [
-          0.4216957688331604,
-          -0.26420411467552185,
-          0.0
-        ]
-      }
-    },
-    {
-      "Active": {
-        "Active": true
-      },
-      "Name": {
-        "Name": "Fruit (6)"
-      },
-      "Parent": 2,
-      "Sprite Renderer": {
-        "Color": [
-          1.0,
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Enabled": true,
-        "Flip X": false,
-        "Flip Y": false,
-        "Pivot": [
-          0.5,
-          0.5
-        ],
-        "Size": [
-          0.20000000298023224,
-          0.20000000298023224
-        ],
-        "Slice Border": [
-          0.0,
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Sort Order": 2,
-        "Texture": "7235a7a46bc17fac8e87a80335bcfba9"
-      },
-      "Tag": {
-        "Tag": "Untagged"
-      },
-      "Transform": {
-        "Rotation": [
-          0.0,
-          0.0,
-          0.0
-        ],
-        "Scale": [
-          1.0,
-          1.0,
-          1.0
-        ],
-        "Translation": [
-          0.13429097831249237,
-          -0.590162992477417,
-          0.0
+          -0.42804378271102905
         ]
       }
     }

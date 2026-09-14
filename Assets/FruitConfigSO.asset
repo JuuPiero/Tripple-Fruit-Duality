@@ -1,7 +1,15 @@
 {
     "Class": "FruitConfigSO",
     "Fields": {
-        "Normal Sprites": [],
-        "Outline Sprites": []
+        "Normal Sprites": [
+            "f851271406472887737bc5b3fce10689",
+            "7235a7a46bc17fac8e87a80335bcfba9",
+            "8eee837c412d941194c5e98279bdaabe"
+        ],
+        "Outline Sprites": [
+            "4194e09bf34cc2d8f834084d2a073e34",
+            "bb8d4a7d51c1db7eb36924daf589512c",
+            "12e1ecad37b69e1a7613bb93dd45cd36"
+        ]
     }
 }

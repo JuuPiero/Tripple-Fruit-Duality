@@ -3,6 +3,8 @@
 #include "ScriptRegistration.h"
 
 void Tree::OnCreate() {
+    ClearChildren();
+    // GetTransform().GetWorldPosition()
 }
 
 void Tree::OnUpdate(float deltaTime) {
