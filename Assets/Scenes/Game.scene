@@ -202,7 +202,7 @@
         "Active": true
       },
       "Directional Light": {
-        "Cast Shadows": false,
+        "Cast Shadows": true,
         "Color": [
           1.0,
           1.0,
@@ -220,7 +220,7 @@
       },
       "Transform": {
         "Rotation": [
-          -8.039523124694824,
+          -51.540000915527344,
           0.0,
           0.0
         ],
@@ -231,7 +231,7 @@
         ],
         "Translation": [
           0.0,
-          108.87468719482422,
+          106.4594497680664,
           0.0
         ]
       }
