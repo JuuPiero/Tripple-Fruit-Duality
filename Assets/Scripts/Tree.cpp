@@ -3,7 +3,7 @@
 #include "ScriptRegistration.h"
 
 void Tree::OnCreate() {
-    ClearChildren();
+    // ClearChildren();
     // GetTransform().GetWorldPosition()
 }
 
